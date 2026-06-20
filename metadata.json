@@ -1,0 +1,6 @@
+{
+  "name": "College Attendance System",
+  "description": "An advanced and clean digital attendance ledger for college students and instructors, powered by secure browser-based storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
